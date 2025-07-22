@@ -141,6 +141,6 @@ The next development steps include extending the interactive CLI interface to su
 6. M. K. Marina and S. R. Das, "On-demand multipath distance vector routing in ad hoc networks," in Proceedings of the Ninth International Conference on Network Protocols, 2001.
 
 
-© 2025 – AODV-DES Golang Simulator | Developed for academic research and formal protocol verification.
+© 2025 – AODV-DES Golang Simulator | Developed for academic purposes and formal protocol verification.
 
 ---
