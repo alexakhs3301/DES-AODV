@@ -60,7 +60,6 @@ Manually interact with the nodes:
 - `start` – Start manual simulation  
 - `rreq <nodeid>` – Send RREQ from specified node  
 - `logs` – Display event logs  
-- `status` – Display supervisor status  
 - `stop` – Stop manual simulation  
 - `exit` – Exit the CLI  
 
